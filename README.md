@@ -13,3 +13,5 @@
     >“The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like "leaflets three, let it be'' for Poisonous Oak and Ivy.”
 
     It might be worthwhile to see if the dataset supports this claim or not.
+
+4. **Video Game Data:** Exploring one specific year in [this dataset](https://www.kaggle.com/juttugarakesh/video-game-data), it would be possible to generate comparisons of popularity between genres, companies and systems across regions. Picking an intentional date, like the start of a new console generation might yield interesting information and allow for a basis of hypothesis testing given popularity and accessability of given category per geographic region.
