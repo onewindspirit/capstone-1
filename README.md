@@ -1,5 +1,7 @@
 # Max Anderson - RDSI Capstone Project 1 
 
+## [Link to Presentation](http://thewindspirit.com/capstone-1.html)
+
 ## Proposals
 
 1. **Human Origins Project Exploratory Data Analysis:** Using the data available in the [National Museum of Natural History collections search](https://collections.nmnh.si.edu/search/anth/) and the .json files associated with the 3D models located in the [3D Digitization Collections](https://3d.si.edu/collections/hominin-fossils), I would generate visuals exploring the relationships between the collections of early hominid fossils in the Human Origin Projects collection. Ideas for visualization include geographic locations, body parts, relationships between the various species, estimated periods of life and discovery, etc. Since the json files also include 3D models of the fossils, I was thinking that there could be further analysis of the 3D models using Three.js’s json viewer or the python-based 3D modeling program Blender.
